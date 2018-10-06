@@ -7,19 +7,22 @@ a simple set of APIs for managing stores and the items within those stores
 
 ## Installation
 
-Clone the repository with HTTPS
+Clone the repository with HTTPS:
 ```
 git clone https://github.com/jmacIndy/udemy-flask-api-section6.git
 ```
-OR, clone the repository with SSH
+OR, clone the repository with SSH:
 ```
 git clone git@github.com:jmacIndy/udemy-flask-api-section6.git
 ```
-Change into that directory.
+Change into that directory:
+```
+cd udemy-flask-api-section6
+```
 Make an environment:
 ```
 pipenv shell
-``
+```
 Install required packages:
 ```
 pipenv install Flask-RESTful
